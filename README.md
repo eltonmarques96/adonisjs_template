@@ -5,7 +5,8 @@ Template to use AdonisJS projects
 - AdonisJS Providers
   - Lucid
   - Ace
-  - vOW
+  - Vow
+  - Mail
 
 ## devDependencies
 - Eslint
