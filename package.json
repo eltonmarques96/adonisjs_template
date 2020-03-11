@@ -7,7 +7,7 @@
     "start": "yarn install && node ace migration:run && node server.js",
     "dev": "nodemon --inspect server.js",
     "test": "node ace test --bail --timeout 5000",
-    "release": "standard-version -a"
+    "release": "HUSKY_SKIP_HOOKS=1 standard-version"
   },
   "husky": {
     "hooks": {
