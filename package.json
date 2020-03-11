@@ -1,6 +1,6 @@
 {
   "name": "adonisjs-template",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A AdonisJS template",
   "main": "index.js",
   "scripts": {
