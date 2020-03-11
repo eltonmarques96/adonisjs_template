@@ -41,6 +41,9 @@
     "nodemon": "^2.0.1",
     "standard-version": "^7.1.0",
     "mysql2": "^2.0.1"
+    "@adonisjs/vow": "^1.0.17",
+    "@adonisjs/mail": "^3.0.10",
+    "@rocketseat/adonis-bull": "^0.2.1"
   },
   "devDependencies": {
     "@commitlint/cli": "^8.3.4",
